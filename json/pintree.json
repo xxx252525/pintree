@@ -1,16 +1,9 @@
 [
   {
     "type": "folder",
-    "addDate": 1732946469614,
+    "addDate": 1729354237323,
     "title": "书签栏",
     "children": [
-      {
-        "type": "link",
-        "addDate": 1693992433576,
-        "title": "27款优秀的Android逆向工程工具_比fakerandroid更强大的工具_顺其自然~的博客-CSDN博客",
-        "icon": "https://logo.clearbit.com/blog.csdn.net",
-        "url": "https://blog.csdn.net/fuhanghang/article/details/96640416#:~:text=27%E6%AC%BE%E4%BC%98%E7%A7%80%E7%9A%84Android%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%201%201.%20SMALI%2FBAKSMALI%202%202.%20ANDBUG%203,7%207.%20ANDROID%20OPENDEBUG%208%208.%20DARE%20%E6%9B%B4%E5%A4%9A%E9%A1%B9%E7%9B%AE"
-      },
       {
         "type": "folder",
         "addDate": 1732946721535,
@@ -176,6 +169,41 @@
             "title": "自动从图像中删除背景 |像素清洁剂",
             "icon": "https://logo.clearbit.com/www.pixcleaner.com",
             "url": "https://www.pixcleaner.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1733400821496,
+            "title": "CUDA Toolkit 12.6 Update 3 Downloads | NVIDIA Developer",
+            "icon": "https://logo.clearbit.com/developer.nvidia.com",
+            "url": "https://developer.nvidia.com/cuda-downloads"
+          },
+          {
+            "type": "link",
+            "addDate": 1733400836914,
+            "title": "CUDA Installation Guide for Linux",
+            "icon": "https://logo.clearbit.com/docs.nvidia.com",
+            "url": "https://docs.nvidia.com/cuda/cuda-installation-guide-linux/#switching-between-driver-module-flavors"
+          },
+          {
+            "type": "link",
+            "addDate": 1693992433576,
+            "title": "27款优秀的Android逆向工程工具_比fakerandroid更强大的工具_顺其自然~的博客-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/fuhanghang/article/details/96640416#:~:text=27%E6%AC%BE%E4%BC%98%E7%A7%80%E7%9A%84Android%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%201%201.%20SMALI%2FBAKSMALI%202%202.%20ANDBUG%203,7%207.%20ANDROID%20OPENDEBUG%208%208.%20DARE%20%E6%9B%B4%E5%A4%9A%E9%A1%B9%E7%9B%AE"
+          },
+          {
+            "type": "link",
+            "addDate": 1725595843000,
+            "title": "Linux命令搜索引擎 命令，Linux Linux命令搜索引擎 命令详解：最专业的Linux命令大全，内容包含Linux命令手册、详解、学习，值得收藏的Linux命令速查手册。 - Linux 命令搜索引擎",
+            "icon": "https://logo.clearbit.com/wangchujiang.com",
+            "url": "https://wangchujiang.com/linux-command/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725439410000,
+            "title": "ChatGPT",
+            "icon": "https://logo.clearbit.com/chatgpt.com",
+            "url": "https://chatgpt.com/"
           }
         ]
       },
@@ -197,6 +225,76 @@
             "title": "飘云阁软件自习室软件标题修改逆向分析加密解密数据恢复系统优化工具包工具包“爆火” - Powered by Discuz!",
             "icon": "https://logo.clearbit.com/www.chinapyg.com",
             "url": "https://www.chinapyg.com/thread-153478-1-1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1734852206000,
+            "title": "Magisk资源分享-分享玩机快乐!",
+            "icon": "https://logo.clearbit.com/magisk.suchenqaq.club",
+            "url": "https://magisk.suchenqaq.club/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727589861000,
+            "title": "Charles破解工具",
+            "icon": "https://logo.clearbit.com/www.zzzmode.com",
+            "url": "https://www.zzzmode.com/mytools/charles/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729406356000,
+            "title": "msojocs/fiddler-everywhere-enhance: Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/msojocs/fiddler-everywhere-enhance"
+          },
+          {
+            "type": "link",
+            "addDate": 1728183609000,
+            "title": "JEB-5.14.0.202406122044_by_CXV.7z ~ 像素流失",
+            "icon": "https://logo.clearbit.com/pixeldrain.com",
+            "url": "https://pixeldrain.com/u/pp6suXFe"
+          },
+          {
+            "type": "link",
+            "addDate": 1727603552000,
+            "title": "One-Fox安全团队 - One-Fox安全团队—狐狸说安全团队",
+            "icon": "https://logo.clearbit.com/www.one-fox.cn",
+            "url": "https://www.one-fox.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729412693000,
+            "title": "Charles破解工具",
+            "icon": "https://logo.clearbit.com/www.zzzmode.com",
+            "url": "https://www.zzzmode.com/mytools/charles/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726914572000,
+            "title": "零基础新手破解学习导航帖 - 『脱壳破解区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn",
+            "icon": "https://logo.clearbit.com/www.52pojie.cn",
+            "url": "https://www.52pojie.cn/thread-582852-1-1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1726232175000,
+            "title": "暮成雪 - 君不见高堂明镜悲白发",
+            "icon": "https://logo.clearbit.com/mcx.aicg.fun",
+            "url": "http://mcx.aicg.fun/"
+          },
+          {
+            "type": "link",
+            "addDate": 1722777297000,
+            "title": "飘云阁软件自习室软件标题修改逆向分析加密解密数据恢复系统优化工具包工具包“爆火” - Powered by Discuz!",
+            "icon": "https://logo.clearbit.com/www.chinapyg.com",
+            "url": "https://www.chinapyg.com/thread-153478-1-1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1725541605000,
+            "title": "凌貓 | Link3",
+            "icon": "https://logo.clearbit.com/link3.cc",
+            "url": "https://link3.cc/aicgfun"
           }
         ]
       },
@@ -351,6 +449,125 @@
             "title": "huanfeng/ApkInfoTool: An apk info tool",
             "icon": "https://logo.clearbit.com/github.com",
             "url": "https://github.com/huanfeng/ApkInfoTool"
+          },
+          {
+            "type": "link",
+            "addDate": 1720667502000,
+            "title": "redroid-rockchip",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/redroid-rockchip"
+          },
+          {
+            "type": "link",
+            "addDate": 1720508126000,
+            "title": "WillzenZou/android_external_mesa3d：用于 rk3588 的带有 panthor 的 waydroid --- WillzenZou/android_external_mesa3d: waydroid with panthor for rk3588",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/WillzenZou/android_external_mesa3d"
+          },
+          {
+            "type": "link",
+            "addDate": 1719997487000,
+            "title": "CNflysky/redroid-rk3588： 具有多种功能的 RK3588 Redroid 映像 |适用于RK3588的Redroid镜像，包含多种功能 --- CNflysky/redroid-rk3588: Redroid Image For RK3588 with Multiple Features | 适用于RK3588的Redroid镜像，包含多种功能",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/CNflysky/redroid-rk3588"
+          },
+          {
+            "type": "link",
+            "addDate": 1681018193000,
+            "title": "yihong0618/xiaogpt: Play ChatGPT with xiaomi AI speaker",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/yihong0618/xiaogpt"
+          },
+          {
+            "type": "link",
+            "addDate": 1722603705000,
+            "title": "Snapdragon 870",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/sdm870/"
+          },
+          {
+            "type": "link",
+            "addDate": 1726386433000,
+            "title": "frida/frida: Clone this repo to build Frida",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/frida/frida"
+          },
+          {
+            "type": "link",
+            "addDate": 1726494325000,
+            "title": "Home - GitBook",
+            "icon": "https://logo.clearbit.com/app.gitbook.com",
+            "url": "https://app.gitbook.com/o/6HBoOcZDFifRiK3j5gQw/home"
+          },
+          {
+            "type": "link",
+            "addDate": 1727246761000,
+            "title": "msm8953-mainline/linux: Linux mainline kernel with WIP patches for msm8953 devices",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/msm8953-mainline/linux"
+          },
+          {
+            "type": "link",
+            "addDate": 1727249062000,
+            "title": "msm8953-mainline",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/msm8953-mainline"
+          },
+          {
+            "type": "link",
+            "addDate": 1727252763000,
+            "title": "msm8953-mainline/lk2nd: Secondary little kernel (lk) bootloader for Qualcomm MSM8953 devices",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/msm8953-mainline/lk2nd"
+          },
+          {
+            "type": "link",
+            "addDate": 1731399785000,
+            "title": "CNflysky/redroid-rk3588: Redroid images for Rockchip RK3588 series SoC",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/CNflysky/redroid-rk3588?tab=readme-ov-file#deprecated-builds"
+          },
+          {
+            "type": "link",
+            "addDate": 1731635529000,
+            "title": "v2ray/v2ray-core: A platform for building proxies to bypass network restrictions.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/v2ray/v2ray-core"
+          },
+          {
+            "type": "link",
+            "addDate": 1732003345000,
+            "title": "sensepost/objection: 📱 objection - runtime mobile exploration",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/sensepost/objection"
+          },
+          {
+            "type": "link",
+            "addDate": 1732206872000,
+            "title": "appium/appium-uiautomator2-driver：适用于 Android UIAutomator2 的 Appium 驱动程序",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/appium/appium-uiautomator2-driver#general"
+          },
+          {
+            "type": "link",
+            "addDate": 1734574343000,
+            "title": "IceWhaleTech/CasaOS: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/IceWhaleTech/CasaOS"
+          },
+          {
+            "type": "link",
+            "addDate": 1735043596000,
+            "title": "HZJQF/help_tool: 推理算法助手(降维打击)",
+            "icon": "https://logo.clearbit.com/github.com",
+            "url": "https://github.com/HZJQF/help_tool"
+          },
+          {
+            "type": "link",
+            "addDate": 1735118050000,
+            "title": "Vue.js",
+            "icon": "https://logo.clearbit.com/cn.vuejs.org",
+            "url": "https://cn.vuejs.org/ecosystem/themes"
           }
         ]
       },
@@ -582,6 +799,426 @@
             "title": "新零基础安卓逆向笔记",
             "icon": "https://logo.clearbit.com/www.yuque.com",
             "url": "https://www.yuque.com/yihanhan-2kgh2/slx2ag?#"
+          },
+          {
+            "type": "folder",
+            "addDate": 1735196045748,
+            "title": "资源",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1726565452000,
+                "title": "📙 Emojipedia — 😃 Home of Emoji Meanings 💁👌🎍😍",
+                "icon": "https://logo.clearbit.com/emojipedia.org",
+                "url": "https://emojipedia.org/"
+              },
+              {
+                "type": "link",
+                "addDate": 1726565530000,
+                "title": "Symbols.com",
+                "icon": "https://logo.clearbit.com/www.symbols.com",
+                "url": "https://www.symbols.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727164737000,
+                "title": "Index of /fedora/releases/39/Server/x86_64/iso",
+                "icon": "https://logo.clearbit.com/hkg.mirror.rackspace.com",
+                "url": "https://hkg.mirror.rackspace.com/fedora/releases/39/Server/x86_64/iso/"
+              },
+              {
+                "type": "link",
+                "addDate": 1727232361000,
+                "title": "LineageOS Downloads",
+                "icon": "https://logo.clearbit.com/download.lineageos.org",
+                "url": "https://download.lineageos.org/devices/natrium/builds"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1726284034000,
+            "title": "小米红米 5 Plus （xiaomi-vince） - postmarketOS Wiki",
+            "icon": "https://logo.clearbit.com/wiki.postmarketos.org",
+            "url": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_5_Plus_(xiaomi-vince)"
+          },
+          {
+            "type": "link",
+            "addDate": 1726284041000,
+            "title": "打造便宜的骁龙625Linux手机——红米4移植主线Linux Mobian Kali Ubuntu_哔哩哔哩_bilibili",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/video/BV15N4y127mN/?spm_id_from=333.337.search-card.all.click&vd_source=9b36cdaad2cfeecd0762a8a81bc39a50"
+          },
+          {
+            "type": "link",
+            "addDate": 1726386783000,
+            "title": "前言 · 逆向调试利器：Frida",
+            "icon": "https://logo.clearbit.com/crifan.github.io",
+            "url": "https://crifan.github.io/reverse_debug_frida/website/#"
+          },
+          {
+            "type": "link",
+            "addDate": 1726453974000,
+            "title": "针对 AOSP 开发进行设置（9.0 或更高版本）  |  Android Open Source Project",
+            "icon": "https://logo.clearbit.com/source.android.google.cn",
+            "url": "https://source.android.google.cn/docs/setup/start/requirements?hl=zh-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1726565132000,
+            "title": "Markdown 基本语法 | Markdown 官方教程",
+            "icon": "https://logo.clearbit.com/markdown.com.cn",
+            "url": "https://markdown.com.cn/basic-syntax/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727232582000,
+            "title": "为 natrium 打造 |LineageOS 维基",
+            "icon": "https://logo.clearbit.com/wiki.lineageos.org",
+            "url": "https://wiki.lineageos.org/devices/natrium/build/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727232586000,
+            "title": "Install LineageOS on natrium | LineageOS Wiki",
+            "icon": "https://logo.clearbit.com/wiki.lineageos.org",
+            "url": "https://wiki.lineageos.org/devices/natrium/install/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727232590000,
+            "title": "Build for vince - PixelExperience Wiki",
+            "icon": "https://logo.clearbit.com/wiki.pixelexperience.org",
+            "url": "https://wiki.pixelexperience.org/devices/vince/build/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727232592000,
+            "title": "Install PixelExperience on vince - PixelExperience Wiki",
+            "icon": "https://logo.clearbit.com/wiki.pixelexperience.org",
+            "url": "https://wiki.pixelexperience.org/devices/vince/install/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727248537000,
+            "title": "构建 NetHunter |Kali Linux 文档",
+            "icon": "https://logo.clearbit.com/www.kali.org",
+            "url": "https://www.kali.org/docs/nethunter/building-nethunter/#:~:text=Before%20you%20can%20build%20for%20a%20device,%20you%20will%20need"
+          },
+          {
+            "type": "link",
+            "addDate": 1727248929000,
+            "title": "构建 NetHunter |Kali Linux 文档",
+            "icon": "https://logo.clearbit.com/www.kali.org",
+            "url": "https://www.kali.org/docs/nethunter/building-nethunter/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727248983000,
+            "title": "Arch Linux 在红米5 Plus (MSM8953) 上的移植 | ZRLab",
+            "icon": "https://logo.clearbit.com/blog.zrlab.org",
+            "url": "https://blog.zrlab.org/posts/archlinux-on-vince/#%E5%AE%89%E8%A3%85%E4%BE%9D%E8%B5%96"
+          },
+          {
+            "type": "link",
+            "addDate": 1727249033000,
+            "title": "在骁龙（835 845 855等）设备通过UEFI运行Archlinux - Linux - Renegade Project",
+            "icon": "https://logo.clearbit.com/forum.renegade-project.tech",
+            "url": "https://forum.renegade-project.tech/t/835-845-855-uefi-archlinux/2497"
+          },
+          {
+            "type": "link",
+            "addDate": 1727249215000,
+            "title": "PinePhone Installation Instructions - PINE64",
+            "icon": "https://logo.clearbit.com/wiki.pine64.org",
+            "url": "https://wiki.pine64.org/wiki/PinePhone_Installation_Instructions#Using_Tow-Boot"
+          },
+          {
+            "type": "link",
+            "addDate": 1727249223000,
+            "title": "小米红米 5 Plus （xiaomi-vince） - postmarketOS Wiki",
+            "icon": "https://logo.clearbit.com/wiki.postmarketos.org",
+            "url": "https://wiki.postmarketos.org/wiki/Xiaomi_Redmi_5_Plus_(xiaomi-vince)#Installation"
+          },
+          {
+            "type": "link",
+            "addDate": 1727265243000,
+            "title": "mobian与主线linux在红米5plus（vince）上的移植 (1) 编译lk2nd以及主线内核的调试_msm8992-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/qq_59833291/article/details/129350209#:~:text=%E6%9C%AC%E6%96%87%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%BA%86%E5%A6%82%E4%BD%95%E5%9C%A8"
+          },
+          {
+            "type": "link",
+            "addDate": 1727427044000,
+            "title": "5号黯区",
+            "icon": "https://logo.clearbit.com/www.dark5.net",
+            "url": "https://www.dark5.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1727875532000,
+            "title": "下载运行JEB · 安卓逆向利器：JEB",
+            "icon": "https://logo.clearbit.com/crifan.github.io",
+            "url": "https://crifan.github.io/android_re_tool_jeb/website/download_run/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729862946000,
+            "title": "在线教程库 - W3schools",
+            "icon": "https://logo.clearbit.com/www.w3ccoo.com",
+            "url": "https://www.w3ccoo.com/tutorials/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729861904000,
+            "title": "Android 安卓开发教程",
+            "icon": "https://logo.clearbit.com/www.w3ccoo.com",
+            "url": "https://www.w3ccoo.com/android/"
+          },
+          {
+            "type": "link",
+            "addDate": 1729601449000,
+            "title": "入门 · Kotlin 官方文档 中文版",
+            "icon": "https://logo.clearbit.com/book.kotlincn.net",
+            "url": "https://book.kotlincn.net/text/getting-started.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1729600116000,
+            "title": "培训  |  Get started  |  Android Developers",
+            "icon": "https://logo.clearbit.com/developer.android.google.cn",
+            "url": "https://developer.android.google.cn/courses?hl=zh-cn"
+          },
+          {
+            "type": "link",
+            "addDate": 1729600085000,
+            "title": "数字 |Kotlin 文档 --- Numbers | Kotlin Documentation",
+            "icon": "https://logo.clearbit.com/kotlinlang.org",
+            "url": "https://kotlinlang.org/docs/numbers.html#floating-point-types"
+          },
+          {
+            "type": "link",
+            "addDate": 1729406321000,
+            "title": "Fiddler Everywhere 5.17.0汉化及破解教程｜老吴搭建教程",
+            "icon": "https://logo.clearbit.com/www.lw50.com",
+            "url": "https://www.lw50.com/post/FiddlerEverywhere.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732003474000,
+            "title": "快速入门指南 |Frida • 世界一流的动态仪表工具包 --- Quick-start guide | Frida • A world-class dynamic instrumentation toolkit",
+            "icon": "https://logo.clearbit.com/frida.re",
+            "url": "https://frida.re/docs/quickstart/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732116998000,
+            "title": "深圳IO游戏入门攻略（不定期更新） - Wozen - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/wozen/p/15376317.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732244495000,
+            "title": "Minecraft 模组编写基础 [Fabric Wiki]",
+            "icon": "https://logo.clearbit.com/wiki.fabricmc.net",
+            "url": "https://wiki.fabricmc.net/zh_cn:tutorial:primer"
+          },
+          {
+            "type": "link",
+            "addDate": 1732244336000,
+            "title": "我的世界开发者中文指南 | MinecraftDeveloperGuide",
+            "icon": "https://logo.clearbit.com/mouse0w0.github.io",
+            "url": "https://mouse0w0.github.io/MinecraftDeveloperGuide/"
+          },
+          {
+            "type": "link",
+            "addDate": 1732244504000,
+            "title": "Fabric 模组开发入门 - Fabric Loader - MC百科|最大的Minecraft中文MOD百科",
+            "icon": "https://logo.clearbit.com/www.mcmod.cn",
+            "url": "https://www.mcmod.cn/post/2500.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1732244507000,
+            "title": "1.21-neoforge | 正山小种 - Minecraft 模组开发指南",
+            "icon": "https://logo.clearbit.com/www.teacon.cn",
+            "url": "https://www.teacon.cn/xiaozhong/1.21-neoforge"
+          },
+          {
+            "type": "link",
+            "addDate": 1733123963000,
+            "title": "deepin如何给根目录扩容？--给你支招－论坛－深度科技",
+            "icon": "https://logo.clearbit.com/bbs.deepin.org",
+            "url": "https://bbs.deepin.org/post/237402"
+          },
+          {
+            "type": "link",
+            "addDate": 1734081718000,
+            "title": "安卓（Android）应用组件 | 参考手册",
+            "icon": "https://logo.clearbit.com/cankaoshouce.com",
+            "url": "https://cankaoshouce.com/android/android-application-components.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1734081724000,
+            "title": "Android（安卓） 教程 - 菜鸟教程",
+            "icon": "https://logo.clearbit.com/www.cainiaoya.com",
+            "url": "https://www.cainiaoya.com/andriod/andriod-jiaocheng.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1734081727000,
+            "title": "Android 基础四五六之：四大组件、五大存储、六大布局详解！ - 打王者的女程序员 - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/chengsisi/p/14555763.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1734231159000,
+            "title": "你想要做什么 | SurviveSJTUManual",
+            "icon": "https://logo.clearbit.com/survivesjtu.gitbook.io",
+            "url": "https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/ben-ke-si-nian-yao-zuo-shen-me"
+          },
+          {
+            "type": "link",
+            "addDate": 1735136143000,
+            "title": "🚀从零到一，用VuePress+GitHub Pages打造你的自动化部署个人博客！ | Ajianxian的个人博客",
+            "icon": "https://logo.clearbit.com/ajianxian.github.io",
+            "url": "https://ajianxian.github.io/article/vlbrorxb/#%E5%9B%9B%E3%80%81%E4%BD%BF%E7%94%A8vuepress%E5%88%9D%E5%A7%8B%E5%8C%96%E9%A1%B9%E7%9B%AE"
+          },
+          {
+            "type": "link",
+            "addDate": 1735136139000,
+            "title": "一篇带你用 VuePress + Github Pages 搭建博客基于 VuePress 和 VuePress 主题 - 掘金",
+            "icon": "https://logo.clearbit.com/juejin.cn",
+            "url": "https://juejin.cn/post/7041134607869149215#heading-7"
+          },
+          {
+            "type": "link",
+            "addDate": 1735132420000,
+            "title": "配置 | VuePress",
+            "icon": "https://logo.clearbit.com/vuepress.vuejs.org",
+            "url": "https://vuepress.vuejs.org/zh/guide/configuration.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1735132000000,
+            "title": "主题介绍 | vuepress-theme-hope",
+            "icon": "https://logo.clearbit.com/theme-hope.vuejs.press",
+            "url": "https://theme-hope.vuejs.press/zh/guide/intro/intro.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1735102055000,
+            "title": "创建您的网站 - MkDocs 材料",
+            "icon": "https://logo.clearbit.com/squidfunk.github.io",
+            "url": "https://squidfunk.github.io/mkdocs-material/creating-your-site/"
+          },
+          {
+            "type": "link",
+            "addDate": 1734686344000,
+            "title": "备份手机字库基带方法（使用命令备份） – MIUI历史版本",
+            "icon": "https://logo.clearbit.com/miuiver.com",
+            "url": "https://miuiver.com/backup-phone-partition/#:~:text=%E8%AF%BB%E5%8F%96%E6%89%8B%E6%9C%BA%E5%88%86%E5%8C%BA%E5%90%8D%E7%A7%B0%EF%BC%8C%E4%BB%8E%E4%B8%AD%E6%8E%92%E9%99%A4%20userdata%20%E5%92%8C%20cache%20%E5%88%86%E5%8C%BA%EF%BC%88%E8%BF%99%E4%B8%A4%E4%B8%AA%E4%B8%8D%E7%94%A8%E5%A4%87%E4%BB%BD%EF%BC%89%EF%BC%8C%E7%84%B6%E5%90%8E%E5%88%9B%E5%BB%BA%E5%A4%87%E4%BB%BD%E5%92%8C%E6%81%A2%E5%A4%8D%E8%84%9A%E6%9C%AC%E3%80%82,%E4%B9%8B%E5%90%8E%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%9A%84%E5%A4%87%E4%BB%BD%E6%96%87%E4%BB%B6%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%88%A0%E9%99%A4%E4%BA%86%E3%80%82%20%E5%A6%82%E6%9E%9C%E4%B9%8B%E5%90%8E%E9%9C%80%E8%A6%81%E6%81%A2%E5%A4%8D%E5%AD%97%E5%BA%93%EF%BC%8C%E5%B0%86%E6%89%8B%E6%9C%BA%E5%90%AF%E5%8A%A8%E5%88%B0%20Fastboot%20%E6%A8%A1%E5%BC%8F%EF%BC%8C%E8%BF%9E%E6%8E%A5%E5%88%B0%E7%94%B5%E8%84%91%EF%BC%8C%E8%A7%A3%E5%8E%8B%E4%B9%8B%E5%89%8D%E7%9A%84%E5%AD%97%E5%BA%93%E5%A4%87%E4%BB%BD%EF%BC%8C%E5%8F%8C%E5%87%BB%E8%BF%90%E8%A1%8C%E6%96%87%E4%BB%B6%E5%A4%B9%E9%87%8C%E7%9A%84%20002_Restore.bat%20%E6%81%A2%E5%A4%8D%E8%84%9A%E6%9C%AC%E5%8D%B3%E5%8F%AF%E3%80%82"
+          },
+          {
+            "type": "link",
+            "addDate": 1734686340000,
+            "title": "超详细字库备份教程 来自 祝柠 - 酷安",
+            "icon": "https://logo.clearbit.com/www.coolapk.com",
+            "url": "https://www.coolapk.com/feed/55599364?shareKey=MDI3YWMwMDVhNmViNjYzNzAxODE~&shareUid=10828415&shareFrom=com.coolapk.market_14.1.2"
+          },
+          {
+            "type": "link",
+            "addDate": 1734498494000,
+            "title": "各 Android 手机厂商 Bootloader 解锁 / 内核开源 / 解锁后保修情况 | MobileModels",
+            "icon": "https://logo.clearbit.com/khwang9883.github.io",
+            "url": "https://khwang9883.github.io/MobileModels/misc/bootloader-kernel-source.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1733921877000,
+            "title": "2023年全国职业院校技能大赛信息安全管理与评估-3阶段web复盘模拟解析 - JunBlog",
+            "icon": "https://logo.clearbit.com/blog.mo60.cn",
+            "url": "https://blog.mo60.cn/index.php/archives/2023-China-Skills-Security-web1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1733921868000,
+            "title": "信息安全与评估 - JunBlog",
+            "icon": "https://logo.clearbit.com/blog.mo60.cn",
+            "url": "https://blog.mo60.cn/index.php/Information_Security_and_Assessment.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1733751367000,
+            "title": "xterm.js 安装和配置指南-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/gitblog_07203/article/details/142225653"
+          },
+          {
+            "type": "link",
+            "addDate": 1733750407000,
+            "title": "https://blog.csdn.net/weixin_38318244/article/details/103908129",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/weixin_38318244/article/details/103908129"
+          },
+          {
+            "type": "link",
+            "addDate": 1733750404000,
+            "title": "NodeJS 下构建 命令行工具（CLI） 与 交互式命令界面 的实践-阿里云开发者社区",
+            "icon": "https://logo.clearbit.com/developer.aliyun.com",
+            "url": "https://developer.aliyun.com/article/1430344"
+          },
+          {
+            "type": "link",
+            "addDate": 1733037541000,
+            "title": "在 Debian/Ubuntu 上使用 QEMU、KVM 和 Virt-Manager 设置虚拟机",
+            "icon": "https://logo.clearbit.com/cn.linux-console.net",
+            "url": "https://cn.linux-console.net/?p=31065"
+          },
+          {
+            "type": "link",
+            "addDate": 1733047516000,
+            "title": "[QEMU]在QEMU中运行Android ARM64 - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/opus/746475735844126775"
+          },
+          {
+            "type": "link",
+            "addDate": 1733052720000,
+            "title": "AOSP - USTC Mirror Help",
+            "icon": "https://logo.clearbit.com/mirrors.ustc.edu.cn",
+            "url": "https://mirrors.ustc.edu.cn/help/aosp.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1733316011000,
+            "title": "2022年 | 字节大佬推荐，超详细的Android（安卓）开发入门教程+Android Studio安装教程 ！_牛客博客",
+            "icon": "https://logo.clearbit.com/blog.nowcoder.net",
+            "url": "https://blog.nowcoder.net/n/7d256e2b873d4d7f97cef1ff2820c78d"
+          },
+          {
+            "type": "link",
+            "addDate": 1733750221000,
+            "title": "用 xterm.js 实现一个简易的 web-terminal ！知道需要做 web-terminal ，第一件事先网上 - 掘金",
+            "icon": "https://logo.clearbit.com/juejin.cn",
+            "url": "https://juejin.cn/post/6918911964009725959"
+          },
+          {
+            "type": "link",
+            "addDate": 1733750239000,
+            "title": "推荐项目：Terminal.js-Webshell - 在浏览器中实现终端模拟器-CSDN博客",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/gitblog_00016/article/details/139211294"
+          },
+          {
+            "type": "link",
+            "addDate": 1733750255000,
+            "title": "JavaScript实现命令行交互 - liaoyu - 博客园",
+            "icon": "https://logo.clearbit.com/www.cnblogs.com",
+            "url": "https://www.cnblogs.com/liaoyu/p/js-terminal.html"
           }
         ]
       },
@@ -687,12 +1324,138 @@
             "title": "嗷呜动漫",
             "icon": "https://logo.clearbit.com/www.moedm.net",
             "url": "https://www.moedm.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1735026299000,
+            "title": "Download server for Minecraft | Minecraft",
+            "icon": "https://logo.clearbit.com/www.minecraft.net",
+            "url": "https://www.minecraft.net/zh-hans/download/server"
+          },
+          {
+            "type": "link",
+            "addDate": 1734944603000,
+            "title": "【土豆兄弟 | Brotato】休闲游戏玩家 MOD推荐 - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/opus/807893518863302664"
+          },
+          {
+            "type": "link",
+            "addDate": 1723385308000,
+            "title": "嗷呜动漫",
+            "icon": "https://logo.clearbit.com/www.moedm.net",
+            "url": "https://www.moedm.net/"
+          },
+          {
+            "type": "link",
+            "addDate": 1725197476000,
+            "title": "囧次元 - 全网专注动漫的门户网站！",
+            "icon": "https://logo.clearbit.com/www.9ciyuan.cc",
+            "url": "https://www.9ciyuan.cc/"
+          },
+          {
+            "type": "link",
+            "addDate": 1695613631000,
+            "title": "植物大战僵尸历代版本（安卓、ios、pc）＋修改器 - 『精品软件区』 - 吾爱破解 - LCG - LSG |安卓破解|病毒分析|www.52pojie.cn",
+            "icon": "https://logo.clearbit.com/www.52pojie.cn",
+            "url": "https://www.52pojie.cn/thread-1174346-1-1.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1716465176000,
+            "title": "安装包解压文件及目录结构简述说明 - WGCLOUD",
+            "icon": "https://logo.clearbit.com/www.wgstart.com",
+            "url": "https://www.wgstart.com/help/docs18.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1735048042000,
+            "title": "适用于 Minecraft 1.18.2 的 Minecraft Forge 下载 --- Downloads for Minecraft Forge for Minecraft 1.18.2",
+            "icon": "https://logo.clearbit.com/files.minecraftforge.net",
+            "url": "https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html"
+          },
+          {
+            "type": "link",
+            "addDate": 1735047640000,
+            "title": "[情報|攻略][1.0-1.21.4]Minecraft下載點／全版本／官方伺服器［持續更新］ - x556602122的創作 - 巴哈姆特",
+            "icon": "https://logo.clearbit.com/home.gamer.com.tw",
+            "url": "https://home.gamer.com.tw/artwork.php?sn=3630027"
           }
         ]
       },
       {
         "type": "folder",
-        "addDate": 1732946721535,
+        "addDate": 1735196045751,
+        "title": "社区",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1735196045751,
+            "title": "工作",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1730511191000,
+                "title": "远程.work-远程工作招聘网站,为远程工作者寻找远程工作",
+                "icon": "https://logo.clearbit.com/yuancheng.work",
+                "url": "https://yuancheng.work/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730511184000,
+                "title": "电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始",
+                "icon": "https://logo.clearbit.com/eleduck.com",
+                "url": "https://eleduck.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730511244000,
+                "title": "小蜜蜂云工作|远程灵活用工|在家线上兼职|人事外包服务",
+                "icon": "https://logo.clearbit.com/www.xmf.com",
+                "url": "https://www.xmf.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1730511251000,
+                "title": "云工-远程工作招聘，找兼职全职、自由职业者雇佣平台！",
+                "icon": "https://logo.clearbit.com/www.yungong.com",
+                "url": "https://www.yungong.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1722874530000,
+            "title": "看雪学苑-看雪-安全培训|安全招聘|www.kanxue.com",
+            "icon": "https://logo.clearbit.com/www.kanxue.com",
+            "url": "https://www.kanxue.com/chm.htm?id=19079&pid=node1001775"
+          },
+          {
+            "type": "link",
+            "addDate": 1730429610000,
+            "title": "学习中 - 我的课程 - 我的学习 - 开放原子开源基金会学习考试平台 - 开源人才培养和认定",
+            "icon": "https://logo.clearbit.com/www.devedu.net",
+            "url": "https://www.devedu.net/my/courses/learning"
+          },
+          {
+            "type": "link",
+            "addDate": 1730429218000,
+            "title": "【玲珑生态构建直播课】课程讲义及视频回看（完整4节课）－论坛－深度科技",
+            "icon": "https://logo.clearbit.com/bbs.deepin.org",
+            "url": "https://bbs.deepin.org/zh/post/277979"
+          },
+          {
+            "type": "link",
+            "addDate": 1730428836000,
+            "title": "社区首页 - 如意玲珑 Linyaps | 如意玲珑社区官网",
+            "icon": "https://logo.clearbit.com/linglong.space",
+            "url": "https://linglong.space/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1735196439522,
         "title": "已导入",
         "children": []
       }
@@ -700,7 +1463,7 @@
   },
   {
     "type": "folder",
-    "addDate": 1732946469614,
+    "addDate": 1729354237323,
     "title": "其他书签",
     "children": [
       {
@@ -982,6 +1745,13 @@
         "title": "ChatGPT",
         "icon": "https://logo.clearbit.com/chatgpt.com",
         "url": "https://chatgpt.com/"
+      },
+      {
+        "type": "link",
+        "addDate": 1732355447000,
+        "title": "【整合包】MC假面骑士100天整合包",
+        "icon": "https://logo.clearbit.com/www.yuque.com",
+        "url": "https://www.yuque.com/u26321293/mzaib/kt94kxsad13kqre3?singleDoc#%20%E3%80%8A%E3%80%90%E6%95%B4%E5%90%88%E5%8C%85%E3%80%91MC%E5%81%87%E9%9D%A2%E9%AA%91%E5%A3%AB100%E5%A4%A9%E6%95%B4%E5%90%88%E5%8C%85%E3%80%8B"
       }
     ]
   }
